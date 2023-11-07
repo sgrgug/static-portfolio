@@ -337,7 +337,7 @@ body.nav-active .nav__list-item:nth-child(4) {
 
 /* My Skills */
 .my-skills {
-    background-color: var(--my-primary);
+    /* background-color: var(--my-primary); */
     margin: 40px 0px;
     padding: 50px 16px;
 }
