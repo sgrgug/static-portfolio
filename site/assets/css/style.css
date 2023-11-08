@@ -342,9 +342,19 @@ body.nav-active .nav__list-item:nth-child(4) {
     padding: 50px 16px;
 }
 
-.my-skills .my-skill-img img {
-    height: 32px;
-    width: 32px;
+.my-skill-img .logo {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    padding: 5px;
+}
+
+.my-skills .my-skill-img ion-icon {
+    height: 30px;
+    width: 30px;
 }
 
 .my-skills .heading {
@@ -471,6 +481,7 @@ swiper-container svg:hover {
 
 .my-card-parent .my-card {
     flex-grow: 1;
+    flex-basis: 1000px;
 }
 
 .my-card-header .logo .company {
