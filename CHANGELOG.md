@@ -1,6 +1,6 @@
 # Getting Started
 
-## ~~Welcome to Taskade! 👋~~
+## Welcome to Taskade! 👋
 
 - [x] Click anywhere and start typing
 - [x] Drag the **⠟** icon to the left to reorder #tasks or click **✚** to the right for add-ons
