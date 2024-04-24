@@ -217,7 +217,7 @@ body.nav-active .nav__list-item:nth-child(4) {
 }
 
 .landing-section .landing-section-top img {
-    border: 3px solid #fafafa;
+    border: 3px solid var(--my-secondary);
     border-radius: 50%;
     width: 230px;
     height: 230px;
