@@ -334,6 +334,23 @@ body.nav-active .nav__list-item:nth-child(4) {
 
 /* Bio */
 
+/* github */
+.github {
+    overflow-x: scroll;
+}
+.github img {
+    width: 600px;
+}
+
+@media screen and (min-width: 768px) {
+    .github {
+        overflow: hidden;
+    }
+    .github img {
+        width: 100%;
+    }
+}
+/* github */
 
 /* My Skills */
 .my-skills {
